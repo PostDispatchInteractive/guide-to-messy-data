@@ -1,5 +1,4 @@
-# The Post-Dispatch guide to bad data
-_
+# A guide to bad data
 
 **An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.**
 
@@ -11,7 +10,7 @@ You cannot possibly review every dataset you encounter for all of these problems
 
 If you have questions about this guide please email [Carl](mailto:clewis@post-dispatch.com). Good luck!
 
-Forked from the [Quartz](http://qz.com/) [guide to bad data](https://github.com/Quartz/bad-data-guide/)
+Forked from [Quartz](http://qz.com/)'s "[Guide to bad data](https://github.com/Quartz/bad-data-guide/)"
 
 
 # Index
