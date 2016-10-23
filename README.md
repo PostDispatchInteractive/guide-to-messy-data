@@ -1,4 +1,5 @@
 # The Post-Dispatch guide to bad data
+_
 
 **An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.**
 
@@ -9,6 +10,8 @@ Most of these problems can be solved. Some of them can't be solved and that mean
 You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.
 
 If you have questions about this guide please email [Carl](mailto:clewis@post-dispatch.com). Good luck!
+
+Forked from the [Quartz](http://qz.com/) [guide to bad data](https://github.com/Quartz/bad-data-guide/)
 
 
 # Index
